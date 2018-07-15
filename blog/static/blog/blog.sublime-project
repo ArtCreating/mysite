@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\blog"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\media"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\mysite"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\read_statistics"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\static"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\templates"
+		},
+		{
+			"path": "E:\\mysite_env\\Scripts\\mysite\\comment"
+		}
+	]
+}
